@@ -1,0 +1,9 @@
+Writing ./default-proxies/weatherapi\apiproxy\weatherapi.xml to apiproxy\weatherapi.xml
+Writing ./default-proxies/weatherapi\apiproxy\policies\SpikeArrest-11091419259467690.xml to apiproxy\policies\SpikeArrest-11091419259467690.xml
+Writing ./default-proxies/weatherapi\apiproxy\policies\XMLToJSON-11091909534776397.xml to apiproxy\policies\XMLToJSON-11091909534776397.xml
+Writing ./default-proxies/weatherapi\apiproxy\proxies\default.xml to apiproxy\proxies\default.xml
+Writing ./default-proxies/weatherapi\apiproxy\targets\default.xml to apiproxy\targets\default.xml
+Imported new proxy version 1
+Environment: test
+  Revision: 1 BasePath = /
+  State: deployed
