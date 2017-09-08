@@ -18,8 +18,8 @@
 ##   $api_domain gets used in conjunction with $org and $env to construct
 ##   the base URL to your APIs: https://$org-$env.$api_domain/<api_resource>
 
-org="amer-partner9"
-username="ritwik_chatterjee@dell.com"
+org="ritwik-chatterjee"
+username="ritwik_chatterjee@infosys.com"
 url="https://api.enterprise.apigee.com"
 #env="Enter the environment to deploy to (test or prod)"
 env="test"
